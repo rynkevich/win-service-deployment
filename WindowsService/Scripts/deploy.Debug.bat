@@ -1,0 +1,1 @@
+dotnet msbuild ../WindowsService.Debug.proj /p:DeploymentServerName=ServerName
